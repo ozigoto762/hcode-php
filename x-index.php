@@ -20,7 +20,7 @@
 	<div id='titulo'>
 		<?php
 			echo "<h1>Hello World!! </h1>";
-			echo "<br> Olá Mundo";
+			echo "Olá Mundo <br> ";
 			echo "Udemy";
 		?>
 	</div>
